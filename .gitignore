@@ -1,0 +1,19 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+
+data/
+
+output/
+4_presentation_and_reports/output/
+
+*.ini
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.dbpip freeze > requirements.txt
